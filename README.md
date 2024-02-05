@@ -13,8 +13,8 @@ Environmental conservation, environmental biology, invasive plant management
 
 Education
 -----
-Major: Biology 
-Concentration: Ecology, Evolution, and Environmental Biology
+Major: Biology, 
+Concentration: Ecology, Evolution, and Environmental Biology,
 Certificate: Geographic Information Systems
 
 Professional Experience
