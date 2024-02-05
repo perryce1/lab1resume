@@ -1,7 +1,7 @@
 C P E R R Y M A P S
 ========
 
-<img src="/Lab 1/Perry-The-Platypus-Icons-Pins-Badge-Decoration-Brooches-Metal-Badges-For-Clothes-Backpack-Decoration-58mm.webp" width='200'>
+<img src="Lab 1/Perry-The-Platypus-Icons-Pins-Badge-Decoration-Brooches-Metal-Badges-For-Clothes-Backpack-Decoration-58mm.webp" width='200'>
 
 #### Student at Appalachian State University
 
