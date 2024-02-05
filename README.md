@@ -19,17 +19,17 @@ Certificate: Geographic Information Systems
 
 Professional Experience
 ----
-####**Sugar Mountain Resort**
+###**Sugar Mountain Resort**
 - Manager
     - Banner Elk NC 
         - *November 2023 - Present*
 
-####**Kenai Fjords National Park**
+###**Kenai Fjords National Park**
 - Intern
     - Seward AK 
         - *May 2023 - August 2023*
 
-####**Behavioral Ecology Research Lab**
+###**Behavioral Ecology Research Lab**
 - Research Assistant
     - Appalachian State University, Boone NC
         - *December 2021 - Present*
